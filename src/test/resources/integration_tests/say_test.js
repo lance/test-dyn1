@@ -4,7 +4,7 @@ var vassert = vertxTest.vassert;
 
 
 function test1(){
-    var Say = require("src/main/resources/say.js").Say;
+    var Say = require("src/main/resources/say").Say;
     var say = new Say();
     say.hi();
     vassert.testComplete();

@@ -1,2 +1,6 @@
 
 src/main/resources/.DS_Store
+build
+.idea
+.gradle
+out

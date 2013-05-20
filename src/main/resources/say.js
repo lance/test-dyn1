@@ -1,1 +1,2 @@
-module.exports = Say = com.mycompany.myproject.Say;
+module.exports.Say = Say = com.mycompany.myproject.Say;
+
