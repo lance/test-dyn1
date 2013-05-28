@@ -16,7 +16,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="jackson-databind-2.1.3" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="netty-all-4.0.0.CR2" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="lang-groovy-2.0.0-beta1" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="hazelcast-2.5.1" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="slf4j-api-1.6.2" level="project" />
     <orderEntry type="library" scope="TEST" name="junit-4.11" level="project" />
@@ -28,6 +27,7 @@
     <orderEntry type="library" scope="TEST" name="testtools-2.0.0-beta1" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="jackson-core-2.1.4" level="project" />
     <orderEntry type="library" scope="TEST" name="hamcrest-core-1.3" level="project" />
+    <orderEntry type="library" name="dynjs-0.1.2-SNAPSHOT" level="project" />
   </component>
 </module>
 

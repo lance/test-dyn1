@@ -9,7 +9,7 @@ public class Test extends TestVerticle {
     @org.junit.Test
     public void test() {
         com.mycompany.myproject.Say say = new com.mycompany.myproject.Say();
-        say.hi();
+        say.hi(null);
         testComplete();
 
     }
