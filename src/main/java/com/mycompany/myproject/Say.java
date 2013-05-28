@@ -14,7 +14,7 @@ public class Say {
 
     }
 
-    public void hi(DynObject options){
+    public void hi(Hash options){
 
          System.out.println("Ola!");
          System.out.println(System.getProperty("user.dir"));
